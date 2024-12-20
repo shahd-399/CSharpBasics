@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
+#region
+#endregion
 #region 1-Write a program that allows the user to enter a number then print it.
 Console.WriteLine("Enter a Number");
 int num = Convert.ToInt32(Console.ReadLine());
